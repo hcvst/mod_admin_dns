@@ -1,0 +1,2 @@
+A DNS module for the Zotonic administrator backend. Requires the erlang-dns application (https://github.com/hcvst/erlang-dns).
+

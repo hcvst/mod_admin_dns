@@ -1,0 +1,4 @@
+%% -*- mode: erlang -*-
+[
+ {admin_dns, ["admin", "dns"], controller_admin_dns, []}
+].
